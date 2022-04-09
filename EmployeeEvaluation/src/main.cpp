@@ -2,7 +2,7 @@
 	Course: SDEV-340-45
 	Assignment Week: 3
 	Assignment Purpose: Employee Evaluation Program Demonstrate a Base Class, Inheritance, Virtual Functions, and an STL object
-	GitHub Download:
+	GitHub Download:https://github.com/quisitor/csmith_week3.git
 	\file Main.cpp Employee Evaluation Program Demonstration
 	\author: Craig Smith
 	\version: 1.0 4/9/22
