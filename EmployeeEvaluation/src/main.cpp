@@ -32,7 +32,7 @@ int main() {
 	std::cout << std::endl << std::endl;
 
 	// Test of Inheritance
-	std::vector<std::string> empToMgrPtrNotes{ "UniqueFName has be a consitent manager", "UniqueFName has met his yearly targets" };
+	std::vector<std::string> empToMgrPtrNotes{ "UniqueFName has been a consitent manager", "UniqueFName has met his yearly targets" };
 	std::unique_ptr<Employee>empToMgrPtr = std::make_unique<Manager>("UniqueFName", "UniqueLName", Employee::Efficiency::Three, 
 		empToMgrPtrNotes, 123432.21, "Statewide Manager", "Sales");
 	
